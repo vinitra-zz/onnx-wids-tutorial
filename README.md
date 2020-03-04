@@ -1,10 +1,12 @@
 # onnx-wids-tutorial
 ONNX talk and workshop details for WIDS 2020.
 
+http://aka.ms/wids2020
+
 # Contributors
-Vinitra Swamy
-Cecilia Liu
-Ashwini Khade 
+- Vinitra Swamy
+= Cecilia Liu
+- Ashwini Khade 
 
 ## Workshop Timeline 
 - Overview of ONNX / ONNX Runtime (10 minutes)  
