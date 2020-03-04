@@ -5,7 +5,7 @@ http://aka.ms/wids2020
 
 # Contributors
 - Vinitra Swamy
-= Cecilia Liu
+- Cecilia Liu
 - Ashwini Khade 
 
 ## Workshop Timeline 
