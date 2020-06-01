@@ -8,7 +8,10 @@ http://aka.ms/wids2020
 - Cecilia Liu
 - Ashwini Khade 
 
-## Workshop Timeline 
+# Demo Notebook
+[Optimize BERT with ONNX Runtime](Demo-Inference-PyTorch-Bert-Model-for-High-Performance-in-ONNX-Runtime.ipynb)
+
+# Workshop Timeline 
 - Overview of ONNX / ONNX Runtime (10 minutes)  
 - Setup: Create Microsoft accounts, clone Azure Notebooks repo, install dependencies (10 minutes)  
 - Demo
@@ -17,3 +20,5 @@ http://aka.ms/wids2020
   - Optimizations with ONNX Runtime (5 minutes) + Demo: OLive Tool (5 minutes)  
 - Discuss Azure ML deployment (5 minutes)  
 - Questions (5 minutes)
+
+[WIDS 2020 - Silicon Valley](https://events.sap.com/us/wids-2020-sv/en/home)
