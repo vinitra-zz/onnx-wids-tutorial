@@ -22,3 +22,4 @@ http://aka.ms/wids2020
 - Questions (5 minutes)
 
 [WIDS 2020 - Silicon Valley](https://events.sap.com/us/wids-2020-sv/en/home)
+[Session Recordings](https://events.sap.com/us/wids-2020-sv/en/recordings)
