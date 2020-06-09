@@ -21,5 +21,5 @@ http://aka.ms/wids2020
 - Discuss Azure ML deployment (5 minutes)  
 - Questions (5 minutes)
 
-[WIDS 2020 - Silicon Valley](https://events.sap.com/us/wids-2020-sv/en/home)
-[Session Recordings](https://events.sap.com/us/wids-2020-sv/en/recordings)
+[WIDS 2020 - Silicon Valley](https://events.sap.com/us/wids-2020-sv/en/home)  
+[WIDS 2020 - Session Recordings](https://events.sap.com/us/wids-2020-sv/en/recordings)
